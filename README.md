@@ -1,4 +1,4 @@
-# James Morris (they/them)
+# James Morris, MS (they/them)
 ## Senior Fullstack Software Engineer
 
 ### About Me
