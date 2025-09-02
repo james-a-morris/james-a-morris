@@ -1,8 +1,8 @@
 # James Morris, MS (they/them)
-## Senior Fullstack Software Engineer
+## FE Lead / Senior Fullstack Software Engineer
 
 ### About Me
-I am James Morris, a Senior Fullstack Software Engineer at [Across Protocol](https://github.com/across-protocol). My passion lies in blockchain technology and decentralized finance (DeFi). With a robust academic background and extensive professional experience, I have contributed to various web3 and fintech innovations.
+I am Jamie, the FE Lead at Across Protocol and UMA. I am passionate about blockchain technology and decentralized finance (DeFi). With a strong academic foundation and extensive professional experience, I have helped drive innovation across web3 and fintech.
 
 ### Education
 - **M.Sc. in Quantitative Finance**
