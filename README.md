@@ -1,8 +1,8 @@
 # James Morris, MS (they/them)
-## FE Lead / Senior Fullstack Software Engineer
+## CTO building in Stealth
 
 ### About Me
-I am Jamie, the FE Lead at Across Protocol and UMA. I am passionate about blockchain technology and decentralized finance (DeFi). With a strong academic foundation and extensive professional experience, I have helped drive innovation across web3 and fintech.
+I am Jamie, prev the FE Lead at Across Protocol and UMA. I am passionate about blockchain technology and decentralized finance (DeFi). With a strong academic foundation and extensive professional experience, I have helped drive innovation across web3 and fintech.
 
 ### Education
 - **M.Sc. in Quantitative Finance**
