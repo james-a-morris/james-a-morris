@@ -1,4 +1,4 @@
-# James Morris, MS (they/them)
+# Jamie Morris, MS (they/them)
 ## CTO building in Stealth
 
 ### About Me
