@@ -1,3 +1,5 @@
+![maxresdefault (1)](https://github.com/user-attachments/assets/191bfab8-d4ff-4777-84de-2086f76f212b)
+
 # Jamie Morris, MS (they/them)
 ## CTO building in Stealth
 
