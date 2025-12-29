@@ -1,9 +1,9 @@
 ![Header Image](https://github.com/user-attachments/assets/191bfab8-d4ff-4777-84de-2086f76f212b)
 
 # Jamie Morris, MS (they/them)
-### CTO • DeFi Protocol Engineer • Interop & Execution Systems
+### CTO @ Blend • DeFi Protocol Engineer • Interop & Execution Systems
 
-I build production-grade DeFi protocols and financial infrastructure with a focus on **execution quality, security, and real-world scale**.
+CTO at **Blend**, building non-custodial, multi-currency financial infrastructure that delivers **local-currency experiences backed by deep onchain liquidity**.
 
 Previously Frontend Lead at **Across Protocol** and **UMA**, where I worked on intent-based systems, cross-chain interoperability, and high-reliability onchain money movement.
 
@@ -11,6 +11,7 @@ Previously Frontend Lead at **Across Protocol** and **UMA**, where I worked on i
 
 ## Impact
 
+- CTO at **Blend**, leading protocol design, engineering execution, and security processes
 - Helped ship and scale **Across Protocol**, contributing to systems that have facilitated **$30B+ in cross-chain volume**
 - Worked on execution and reliability for **intent-based routing** used in production at scale
 - Contributed to securing and operating the **UMA Optimistic Oracle**, the core truth layer powering applications such as **Polymarket**
