@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/user-attachments/assets/191bfab8-d4ff-4777-84de-2086f76f212b)
 
-# Jamie Morris, MS (they/them)
+# Jamie Morris, MS (they/she)
 ### CTO @ Blend • DeFi Protocol Engineer • Interop & Execution Systems
 
 CTO at **Blend**, building non-custodial, multi-currency financial infrastructure that delivers **local-currency experiences backed by deep onchain liquidity**.
