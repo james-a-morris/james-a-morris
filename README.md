@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/user-attachments/assets/191bfab8-d4ff-4777-84de-2086f76f212b)
 
-## Jamie Morris, MS (they/she)
-### Co-Founder & CTO @ Blend
+# Jamie Morris, MS (they/she)
+## Co-Founder & CTO @ Blend
 
 Co-Founder and CTO at **Blend**, building compliant yield infrastructure for neobanks and fintechs. Blend is a control plane and execution engine for DeFi yield distribution. Partners integrate once through our API and gain access to curated strategy baskets from vetted yield curators. Every end user is provisioned their own isolated **Gnosis Safe** via our **Separately Managed Account (SMA) architecture**, enforcing fund isolation at the account level with permissioned automation scoped through on-chain execution modules and transaction guards. No pooled vaults. No commingled funds. Full auditability per account. Blend orchestrates cross-chain routing via **LayerZero**, automated rebalancing, derisking thresholds, and ongoing position management across chains, giving partners a compliant, non-custodial yield layer without building any of the underlying infrastructure.
 
